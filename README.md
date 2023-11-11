@@ -6,7 +6,7 @@
 
 - 💞️ I’m open to collaborating on projects related to APP Development using kotlin , aiming to contribute and learn from like-minded individuals.
 
-- 📫 Let’s connect! Reach me at Mail:khushisinghrajpoot30@gmail.com ,linkedin:(https://www.linkedin.com/in/khushi-singh-rajpoot) Khushi Singh Rajpoot,
+- 📫 Let’s connect! Reach me at Mail:khushisinghrajpoot30@gmail.com ,linkedin:(khushi-singh-rajpoot) Khushi Singh Rajpoot,
 - eager to engage in conversations or explore potential collaborations.
 
 <!---
